@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+*.VC
+Debug/
+.vs/
+TP_graph/Debug/
+TP_graph.VC.db 
